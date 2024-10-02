@@ -1,0 +1,28 @@
+/* Form styles */
+form {
+    max-width: 600px;
+    margin: 20px 0;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+    background-color: #0366d6;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #024e9b;
+  }
+  
